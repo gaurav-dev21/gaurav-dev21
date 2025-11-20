@@ -1,5 +1,3 @@
-## gaurav-dev21
-
 # 💫 About Me:
 🔭 Working on: Backend projects (Python, Flask, SQL).<br>🌱 Learning: System design, Docker, DSA.<br>👯 Collaborate on: Backend/API projects.<br>🤔 Need help with: Improving for Finland job market.<br>💬 Ask me about: APIs, SQL, Linux, Python.<br>📫 Reach me: gaurav.programmer21@gmail.com<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: I break things to understand them.
 
